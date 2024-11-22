@@ -1,6 +1,6 @@
-# Jabir ibn Hayyan (Geber).
+# Jabir ibn Hayyan أَبو موسى جابِر بِن حَيّان (Geber).
 
-Public Domain Works of Jabir ibn Hayyan (Geber) (? -816).
+Public Domain Works of Jabir ibn Hayyan أَبو موسى جابِر بِن حَيّان (Geber) (? -816).
 
 ## The Works of Geber
 
